@@ -1,0 +1,16 @@
+if you want to create react project using npm, npx and yarn, you can follow the following steps:
+
+# using npm
+npm init react-app my-app
+
+# using npx
+npx create-react-app my-app
+
+# using yarn
+yarn create react-app my-app
+
+# or use
+npm create vite@latest my-app -- --template react
+    cd my-app
+    npm install
+    npm run dev
